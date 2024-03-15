@@ -1,0 +1,210 @@
+	body {
+		margin: 0;
+		width: 100%;
+		height: 100%;
+		color: #333333;
+		font-family: 'Bitter', serif;
+		text-align: center;
+		background: url("https://img.freepik.com/free-vector/watercolor-halloween-background_52683-43698.jpg");
+		background-size: cover;
+		background-attachment: fixed;
+	}
+	
+	p{
+		color: ;
+		display: ;
+		position: ;
+		background: ;
+		border-radius: ;
+		opacity: ;
+		font-family: 'Averia Sans Libre', sans-serif; 
+		font-size: ;
+		text-align: ;
+		text-decoration: ;
+		text-transform: ;
+		padding: ;
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+
+	h1{
+		color: ;
+		display: ;
+		position: ;
+		background: ;
+		border-radius: ;
+		opacity: ;
+		font-family: 'MedievalSharp', cursive;
+		font-size: ;
+		text-align: ;
+		text-decoration: ;
+		text-transform: ;
+		padding: ;
+		margin: ;
+	}
+
+	h2{
+		color: ;
+		display: ;
+		position: ;
+		background: ;
+		border-radius: ;
+		opacity: ;
+		font-family: 'McLaren Display';
+		font-size: ;
+		text-align: ;
+		text-decoration: ;
+		text-transform: ;
+		padding: ;
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+
+	h3 {
+		color: ;
+		display: ;
+		position: ;
+		background: ;
+		border-radius: ;
+		opacity: ;
+		font-family: 'Permanent Marker';
+		font-size: ;
+		text-align: ;
+		text-decoration: ;
+		text-transform: ;
+		padding: ;
+		margin: ;
+	}
+
+	h4 {
+		color: black;
+		display: ;
+		position: ;
+		background: ;
+		border-radius: ;
+		opacity: ;
+		font-family: Young Serif;
+		font-size: 16px;
+		text-align: center;
+		text-decoration: ;
+		text-transform: ;
+		padding: ;
+		margin: ;
+
+	}
+
+	/* default link styles */
+	a:link, a:visited, a:active {
+		position: relative;
+		display: inline-block;
+		color: #333333;
+		padding: 5px;
+		background: white;
+		text-decoration: none;
+		transition: all 0.5s ease; /* ease the hover transition */
+		text-decoration: underline;
+		margin: ;
+		font-size: ;
+		font-family: ;
+	}
+	a:hover {
+		color: #000066;
+		text-decoration: none;
+		background: yellow;
+	}
+
+	table {
+		border-color: red;
+		border-width: 1px;
+		border-style: solid;
+		margin: 0 auto;
+	}
+	
+	#container {
+		position: relative;
+		display: inline-block;
+		width: 80%;
+		box-sizing: border-box;
+		padding: 10px;
+		margin-top: 50px;
+		border-radius: 0.5em;
+		background: rgba(255,255,255,0.8);
+	}
+	.home:link, .home:visited, .home:active {
+		display: inline-block;
+		position: relative;
+		float: left;
+		float: top;
+		margin: 15px 0px 0px 15px;
+		background: yellow;
+		font-size: 40px;
+
+	}
+	.home:hover {
+		color: red;
+	}
+	.box {
+		position: relative;
+		display: inline-block;
+		box-sizing: border-box;
+		font-family: ;
+		border: 1px solid #333;
+		width: 100%;
+		height: 100%;
+		padding: ;
+		background: #fff;
+	}
+	.normSubBtn {
+		background: white;
+		text-shadow: -2px 1px 2px #ffb13d;
+		font-family: Arial;
+		color: black;
+		font-size: 18px;
+		padding: 3px 13px 3px 13px;
+		border: solid #FDDA0D 2px;
+		text-decoration: none;
+		margin: 0px 0px 20px 0px;
+		}
+
+	.normSubBtn:hover {
+		background: #FDDA0D;
+		color: white;
+		text-decoration: none;
+		}
+
+	.form {
+		border: solid black 1px;
+		margin: 40px 10px 40px 10px;
+		border-radius: 2em;
+		background: rgba(213, 184, 255, 0.3);
+		font-family:'Bitter', serif; 
+	}
+	.image {
+		border: solid black 1px;
+		width: 80%;
+		height: auto;
+	}
+	/* Error Statements */
+	.error {
+		color: darkred;
+	}
+	/* Form Inputs */
+	.input {
+		border-style: solid; 
+		border-width: 2px;
+		border-color: darkorange;
+		border-radius: 0.8em;
+		padding: 5px 10px 5px 10px;
+	}
+	/* php outputs */
+	.output {
+			color: #6DF27B;
+			font-size: 20px;
+			background: #6B5B95;
+			border-color: #92A8D1;
+			border-width: 2px;
+			display: inline-block;
+			border-style: solid;
+			padding: 10px;
+			margin: 20px 20px 20px 20px;
+		}
